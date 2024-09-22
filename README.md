@@ -9,7 +9,6 @@ Bootstrap: For responsive design and some built-in components like the navbar.
 
 # Pages
 1. Home Page (index.html)
-Layout: The home page is designed using a flexible CSS Grid layout.
 Header: Includes a burger menu for responsive mobile navigation.
 Featured Section: Displays featured jewelry items or offers.
 Modal Window: Implemented using Bootstrap to display pop-up content (e.g., product details, signup form).
